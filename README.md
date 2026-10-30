@@ -1,2 +1,2 @@
 # 🧱 Plantilla responsiva
-És una base per a poder fer projectes inicials de html + css. Totalment responsiva i basada en w3schools/html
+Es una base para poder realizar proyectos iniciales de html+css. Totalmente responsiva, basada en w3schools/html y la plantilla del profesor xavi blanes
